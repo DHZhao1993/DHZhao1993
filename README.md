@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @DHZhao1993
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python (matplotlib numpy ........) 
+
